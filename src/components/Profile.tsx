@@ -1,5 +1,3 @@
-import React from "react";
-
 import myImage from "../assets/images/25766436-2423-48DF-B001-3E358DE81496.jpg"
 
 const Profile = () => {
